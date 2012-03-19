@@ -1,0 +1,12 @@
+*.tds
+*.obj
+*.exe
+*.class
+*.pyc
+*.pyd
+*.etc
+*.zip
+.git
+.git/*
+OpenCV-2.3.0
+OpenCV-2.3.0/*
